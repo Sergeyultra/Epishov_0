@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    char ch;
     char letter;
-    cout << "Hello World!";
-    ch = getchar();//
+    cout << "Hello World!\n";
     cout << "enter letter\n";
     cin >> letter;
+    cout << letter;
+    return 0;
 }
