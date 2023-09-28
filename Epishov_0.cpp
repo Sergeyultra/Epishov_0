@@ -10,5 +10,4 @@ int main()
     ch = getchar();//
     cout << "enter letter\n";
     cin >> letter;
-    cout << ch;
 }
